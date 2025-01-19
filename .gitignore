@@ -1,8 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
 Content/*/**
-!Content/AI/
-!Content/Blueprints/
+!Content/AI/*
+!Content/Blueprints/*
 
 # Compiled Object files
 *.slo
